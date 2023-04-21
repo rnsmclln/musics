@@ -1,6 +1,10 @@
 ﻿{
   "title": "jrock",
-  "cover": "https://png.pngtree.com/template/20201201/ourmid/pngtree-traditional-red-japanese-building-snow-scene-image_447106.jpg",
+  "covers": [
+    "https://png.pngtree.com/template/20201201/ourmid/pngtree-traditional-red-japanese-building-snow-scene-image_447106.jpg",
+    "https://png.pngtree.com/template/20201201/ourmid/pngtree-traditional-red-japanese-building-snow-scene-image_447106.jpg",
+    "https://png.pngtree.com/template/20201201/ourmid/pngtree-traditional-red-japanese-building-snow-scene-image_447106.jpg"
+  ],
   "db": [
     {
       "title": "Anna Tsuchiya",
