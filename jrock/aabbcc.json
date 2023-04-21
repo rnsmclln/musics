@@ -1,0 +1,48 @@
+﻿{
+  "title": "jrock",
+  "cover": "https://png.pngtree.com/template/20201201/ourmid/pngtree-traditional-red-japanese-building-snow-scene-image_447106.jpg",
+  "db": [
+    {
+      "title": "Anna Tsuchiya",
+      "subtitle": "Ou Anna Marie Heider-Tsuchiya, é uma cantora, modelo e atriz, filha de pai polaco-americano e de mãe japonesa",
+      "previews": [
+        "O tempo me ensinou a nunca parar. O amor me ensinou como beijar. O beijo me ensinou como mentir.",
+        "" 
+      ],
+      "covers": [
+        "https://m.media-amazon.com/images/I/51HRw1ENMsL.jpg",
+        "https://m.media-amazon.com/images/I/51HRw1ENMsL.jpg",
+        "https://m.media-amazon.com/images/I/51HRw1ENMsL.jpg"
+      ],
+      "price": 0
+    },
+    {
+      "title": "Radwimps",
+      "subtitle": "Uma das mais bem sucecidades e famosas bandas de rock japonês de todos os tempos",
+      "previews": [
+        "Até agora, quantas vezes já te fiz chorar?\nComparando com isso, quantas vezes fiz você sorrir?",
+        ""
+      ],
+      "covers": [
+        "https://i1.sndcdn.com/artworks-000474553452-yb68ql-t500x500.jpg",
+        "https://i1.sndcdn.com/artworks-000474553452-yb68ql-t500x500.jpg",
+        "https://i1.sndcdn.com/artworks-000474553452-yb68ql-t500x500.jpg"
+      ],
+      "price": 8
+    },
+    {
+      "title": "Stereopony",
+      "subtitle": "Foi uma banda de rock japonesa",
+      "previews": [
+        "A realidade continua caindo como a chuva, e eu estou sem um guarda-chuva.",
+        ""
+      ],
+      "covers": [
+        "https://cdns-images.dzcdn.net/images/cover/90a3bf49c5c2b2cdfcb3d69dc385e52d/264x264.jpg",
+        "https://cdns-images.dzcdn.net/images/cover/90a3bf49c5c2b2cdfcb3d69dc385e52d/264x264.jpg",
+        "https://cdns-images.dzcdn.net/images/cover/90a3bf49c5c2b2cdfcb3d69dc385e52d/264x264.jpg"
+      ],
+      "price": 0
+    }
+  ]
+}
